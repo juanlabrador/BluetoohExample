@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BluetoohRead</string>
+
+    <string name="list">List paired devices</string>
+    <string name="find">Search new devices/Cancel</string>
+
+</resources>
